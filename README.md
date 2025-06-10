@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
