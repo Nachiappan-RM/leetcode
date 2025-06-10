@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Nachiappan-RM/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
