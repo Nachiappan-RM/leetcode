@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,9 +34,14 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
