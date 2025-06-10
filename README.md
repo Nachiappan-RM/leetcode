@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/Nachiappan-RM/leetcode/tree/master/0057-insert-interval) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
