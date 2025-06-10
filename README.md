@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Nachiappan-RM/leetcode/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/Nachiappan-RM/leetcode/tree/master/0057-insert-interval) |
+| [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -71,4 +72,17 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nachiappan-RM/leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
