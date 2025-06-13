@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Nachiappan-RM/leetcode/tree/master/0057-insert-interval) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
