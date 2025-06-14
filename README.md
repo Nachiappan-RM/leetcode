@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Nachiappan-RM/leetcode/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/Nachiappan-RM/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -136,5 +138,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nachiappan-RM/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
