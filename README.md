@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
