@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Nachiappan-RM/leetcode/tree/master/0155-min-stack) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Doubly-Linked List
 |  |
@@ -135,4 +136,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Nachiappan-RM/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
