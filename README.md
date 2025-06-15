@@ -38,6 +38,7 @@
 | [0022-generate-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Nachiappan-RM/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -159,4 +160,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nachiappan-RM/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
