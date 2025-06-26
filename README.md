@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Nachiappan-RM/leetcode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -221,4 +222,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nachiappan-RM/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nachiappan-RM/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
