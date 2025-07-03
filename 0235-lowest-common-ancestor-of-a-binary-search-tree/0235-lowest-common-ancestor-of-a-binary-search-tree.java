@@ -40,40 +40,60 @@
 
 
 // -------- REVISION -------------
+// class Solution {
+//     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+//         List<TreeNode> pathForP = new ArrayList<>();
+//         List<TreeNode> pathForQ = new ArrayList<>();
+
+//         // Assumption p is always smaller than q
+//         if(p.val > q.val){
+//             TreeNode temp = p;
+//             p = q;
+//             q = temp;
+//         }
+
+//         getPathFromRoot(pathForP, root, p);
+//         getPathFromRoot(pathForQ, root, q);
+//         int i = 0;
+//         int j = 0;
+
+//         while(i<pathForP.size() && j<pathForQ.size() && pathForP.get(i) == pathForQ.get(j)){
+//             i++;
+//             j++;
+//         }
+//         return pathForP.get(i-1);
+//     }
+
+//     private void getPathFromRoot(List<TreeNode> list, TreeNode root, TreeNode p){
+//         if(root.val == p.val){
+//             list.add(root);
+//             return;
+//         }
+//         list.add(root);
+//         if(root.val>p.val){
+//             getPathFromRoot(list, root.left, p);
+//         }else{
+//             getPathFromRoot(list, root.right, p);
+//         }
+//     }
+// }
+
+
+// -----REVISION------------
 class Solution {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> pathForP = new ArrayList<>();
-        List<TreeNode> pathForQ = new ArrayList<>();
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q){
+        TreeNode curr = root;
 
-        // Assumption p is always smaller than q
-        if(p.val > q.val){
-            TreeNode temp = p;
-            p = q;
-            q = temp;
+        while(curr != null) {
+            if(p.val > curr.val && q.val > curr.val) {
+                curr = curr.right;
+            }else if(p.val < curr.val && q.val < curr.val) {
+                curr = curr.left;
+            }else{
+                return curr;
+            }
         }
 
-        getPathFromRoot(pathForP, root, p);
-        getPathFromRoot(pathForQ, root, q);
-        int i = 0;
-        int j = 0;
-
-        while(i<pathForP.size() && j<pathForQ.size() && pathForP.get(i) == pathForQ.get(j)){
-            i++;
-            j++;
-        }
-        return pathForP.get(i-1);
-    }
-
-    private void getPathFromRoot(List<TreeNode> list, TreeNode root, TreeNode p){
-        if(root.val == p.val){
-            list.add(root);
-            return;
-        }
-        list.add(root);
-        if(root.val>p.val){
-            getPathFromRoot(list, root.left, p);
-        }else{
-            getPathFromRoot(list, root.right, p);
-        }
+        return null;
     }
 }
