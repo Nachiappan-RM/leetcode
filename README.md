@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
@@ -96,6 +97,7 @@
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nachiappan-RM/leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Doubly-Linked List
@@ -323,4 +326,8 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nachiappan-RM/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
