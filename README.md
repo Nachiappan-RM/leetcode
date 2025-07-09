@@ -47,6 +47,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Nachiappan-RM/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nachiappan-RM/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -65,6 +66,7 @@
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nachiappan-RM/leetcode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Nachiappan-RM/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nachiappan-RM/leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
@@ -181,6 +184,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Nachiappan-RM/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sorting
 |  |
