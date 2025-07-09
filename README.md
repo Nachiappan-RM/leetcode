@@ -130,6 +130,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Doubly-Linked List
@@ -207,6 +208,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nachiappan-RM/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -318,6 +321,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -334,9 +338,14 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nachiappan-RM/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
