@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nachiappan-RM/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nachiappan-RM/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/Nachiappan-RM/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nachiappan-RM/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -82,6 +84,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Nachiappan-RM/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@
 | [0036-valid-sudoku](https://github.com/Nachiappan-RM/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Nachiappan-RM/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nachiappan-RM/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Nachiappan-RM/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sorting
 |  |
