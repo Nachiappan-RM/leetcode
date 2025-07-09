@@ -30,6 +30,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
+| [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
@@ -138,6 +139,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
+| [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
@@ -282,6 +284,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nachiappan-RM/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nachiappan-RM/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -369,4 +372,12 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
