@@ -31,6 +31,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -210,6 +213,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nachiappan-RM/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -228,6 +232,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nachiappan-RM/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nachiappan-RM/leetcode/tree/master/1127-last-stone-weight) |
@@ -260,6 +265,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
