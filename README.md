@@ -35,6 +35,7 @@
 | [0384-shuffle-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0384-shuffle-an-array) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
@@ -178,6 +179,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nachiappan-RM/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -206,12 +209,14 @@
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nachiappan-RM/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
