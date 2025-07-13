@@ -42,6 +42,7 @@
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nachiappan-RM/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/Nachiappan-RM/leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Nachiappan-RM/leetcode/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -181,6 +182,7 @@
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Nachiappan-RM/leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0226-invert-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Nachiappan-RM/leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
