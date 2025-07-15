@@ -91,6 +91,7 @@
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3396-valid-word](https://github.com/Nachiappan-RM/leetcode/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
