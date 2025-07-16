@@ -40,6 +40,7 @@
 | [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nachiappan-RM/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -121,6 +122,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
