@@ -116,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nachiappan-RM/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
@@ -126,6 +127,7 @@
 | [0002-add-two-numbers](https://github.com/Nachiappan-RM/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nachiappan-RM/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -457,4 +459,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nachiappan-RM/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
