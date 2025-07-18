@@ -14,6 +14,7 @@
 | [0040-combination-sum-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Nachiappan-RM/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Nachiappan-RM/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Nachiappan-RM/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nachiappan-RM/leetcode/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Nachiappan-RM/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nachiappan-RM/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nachiappan-RM/leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
