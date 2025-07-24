@@ -101,6 +101,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Nachiappan-RM/leetcode/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3396-valid-word](https://github.com/Nachiappan-RM/leetcode/tree/master/3396-valid-word) |
@@ -140,6 +141,7 @@
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nachiappan-RM/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/Nachiappan-RM/leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1559-cherry-pickup-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/1559-cherry-pickup-ii) |
 ## Math
@@ -368,6 +370,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Nachiappan-RM/leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
