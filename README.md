@@ -28,6 +28,7 @@
 | [0130-surrounded-regions](https://github.com/Nachiappan-RM/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nachiappan-RM/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Nachiappan-RM/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nachiappan-RM/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Nachiappan-RM/leetcode/tree/master/0198-house-robber) |
@@ -138,6 +139,7 @@
 | [0091-decode-ways](https://github.com/Nachiappan-RM/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nachiappan-RM/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Nachiappan-RM/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nachiappan-RM/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
