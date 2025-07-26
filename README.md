@@ -51,6 +51,7 @@
 | [0739-daily-temperatures](https://github.com/Nachiappan-RM/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nachiappan-RM/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -81,6 +82,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Nachiappan-RM/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nachiappan-RM/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -294,6 +296,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -353,6 +356,7 @@
 | [0055-jump-game](https://github.com/Nachiappan-RM/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nachiappan-RM/leetcode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Nachiappan-RM/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
