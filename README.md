@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Nachiappan-RM/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Nachiappan-RM/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nachiappan-RM/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nachiappan-RM/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nachiappan-RM/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nachiappan-RM/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Nachiappan-RM/leetcode/tree/master/0401-binary-watch) |
 ## Dynamic Programming
