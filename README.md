@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nachiappan-RM/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Nachiappan-RM/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Nachiappan-RM/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nachiappan-RM/leetcode/tree/master/0066-plus-one) |
