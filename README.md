@@ -131,6 +131,7 @@
 | [0136-single-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Nachiappan-RM/leetcode/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@
 | [0279-perfect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nachiappan-RM/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nachiappan-RM/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Nachiappan-RM/leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0747-min-cost-climbing-stairs) |
