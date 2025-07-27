@@ -129,6 +129,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Nachiappan-RM/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Nachiappan-RM/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0338-counting-bits) |
@@ -314,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/Nachiappan-RM/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nachiappan-RM/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nachiappan-RM/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nachiappan-RM/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nachiappan-RM/leetcode/tree/master/0347-top-k-frequent-elements) |
