@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/Nachiappan-RM/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nachiappan-RM/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nachiappan-RM/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nachiappan-RM/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nachiappan-RM/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -105,6 +106,7 @@
 | [0022-generate-parentheses](https://github.com/Nachiappan-RM/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Nachiappan-RM/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Nachiappan-RM/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Nachiappan-RM/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Nachiappan-RM/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Nachiappan-RM/leetcode/tree/master/0127-word-ladder) |
@@ -129,6 +131,7 @@
 | [0039-combination-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nachiappan-RM/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Nachiappan-RM/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Nachiappan-RM/leetcode/tree/master/0494-target-sum) |
@@ -241,6 +244,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nachiappan-RM/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Nachiappan-RM/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Nachiappan-RM/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nachiappan-RM/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0212-word-search-ii) |
@@ -251,6 +255,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nachiappan-RM/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nachiappan-RM/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
