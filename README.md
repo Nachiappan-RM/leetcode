@@ -71,6 +71,7 @@
 | [1036-rotting-oranges](https://github.com/Nachiappan-RM/leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Nachiappan-RM/leetcode/tree/master/1127-last-stone-weight) |
 | [1559-cherry-pickup-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Nachiappan-RM/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
@@ -327,6 +328,7 @@
 | [0684-redundant-connection](https://github.com/Nachiappan-RM/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nachiappan-RM/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Nachiappan-RM/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Trie
 |  |
 | ------- |
@@ -556,6 +558,7 @@
 | [0207-course-schedule](https://github.com/Nachiappan-RM/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nachiappan-RM/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Nachiappan-RM/leetcode/tree/master/0684-redundant-connection) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Nachiappan-RM/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -566,4 +569,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nachiappan-RM/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nachiappan-RM/leetcode/tree/master/0139-word-break) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Nachiappan-RM/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
