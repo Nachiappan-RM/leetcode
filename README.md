@@ -130,6 +130,7 @@
 | [0647-palindromic-substrings](https://github.com/Nachiappan-RM/leetcode/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nachiappan-RM/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nachiappan-RM/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Nachiappan-RM/leetcode/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
@@ -355,6 +356,7 @@
 | [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Nachiappan-RM/leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nachiappan-RM/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
