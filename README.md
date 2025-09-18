@@ -104,6 +104,7 @@
 | [0876-hand-of-straights](https://github.com/Nachiappan-RM/leetcode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
+| [3678-design-task-manager](https://github.com/Nachiappan-RM/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nachiappan-RM/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -245,6 +246,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nachiappan-RM/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Nachiappan-RM/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Nachiappan-RM/leetcode/tree/master/2139-detect-squares) |
+| [3678-design-task-manager](https://github.com/Nachiappan-RM/leetcode/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nachiappan-RM/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Nachiappan-RM/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nachiappan-RM/leetcode/tree/master/1127-last-stone-weight) |
+| [3678-design-task-manager](https://github.com/Nachiappan-RM/leetcode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -558,6 +561,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nachiappan-RM/leetcode/tree/master/0729-my-calendar-i) |
+| [3678-design-task-manager](https://github.com/Nachiappan-RM/leetcode/tree/master/3678-design-task-manager) |
 ## Graph
 |  |
 | ------- |
